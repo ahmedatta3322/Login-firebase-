@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "755049830986",
+    "firebase_url": "https://first2-1c097.firebaseio.com",
+    "project_id": "first2-1c097",
+    "storage_bucket": "first2-1c097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755049830986:android:aad8278481281666",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.first2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755049830986-mph4cg1ed3cjrcspovm2ffvvnba4pebs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyZTNqnqUYEGVPX6zFPuBmqt5G9BdjHfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755049830986:android:46b7d90ae747e869",
+        "android_client_info": {
+          "package_name": "ads.asda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755049830986-mph4cg1ed3cjrcspovm2ffvvnba4pebs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyZTNqnqUYEGVPX6zFPuBmqt5G9BdjHfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755049830986:android:ea01791cb2c76885",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.first3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755049830986-mph4cg1ed3cjrcspovm2ffvvnba4pebs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyZTNqnqUYEGVPX6zFPuBmqt5G9BdjHfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
